@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Land Cruiser",
+    "brand": "Toyota",
+    "model": "Land Cruiser",
+    "year": 2023,
+    "type": "SUV",
+    "price": 55000000,
+    "currency": "NGN",
+    "mileage": 8000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/toyota/toyota1.avif",
+    "available": true,
+    "slug": "toyota-toyotalandcruiser-landcruiser"
+  },
+  {
+    "id": 2,
+    "name": "Toyota Highlander",
+    "brand": "Toyota",
+    "model": "Highlander",
+    "year": 2022,
+    "type": "SUV",
+    "price": 35000000,
+    "currency": "NGN",
+    "mileage": 12000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/toyota/toyota2.avif",
+    "available": true,
+    "slug": "toyota-toyotahighlander-highlander"
+  },
+  {
+    "id": 3,
+    "name": "Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2021,
+    "type": "Sedan",
+    "price": 18000000,
+    "currency": "NGN",
+    "mileage": 20000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/toyota/toyota11.avif",
+    "available": true,
+    "slug": "toyota-toyotacamry-camry"
+  },
+  {
+    "id": 4,
+    "name": "Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "type": "Sedan",
+    "price": 15000000,
+    "currency": "NGN",
+    "mileage": 25000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/toyota/toyota12.avif",
+    "available": true,
+    "slug": "toyota-toyotacorolla-corolla"
+  },
+  {
+    "id": 5,
+    "name": "Toyota Hilux",
+    "brand": "Toyota",
+    "model": "Hilux",
+    "year": 2022,
+    "type": "Truck",
+    "price": 32000000,
+    "currency": "NGN",
+    "mileage": 12000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/toyota/toyota13.avif",
+    "available": true,
+    "slug": "toyota-toyotahilux-hilux"
+  },
+  {
+    "id": 6,
+    "name": "Toyota RAV4",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2021,
+    "type": "SUV",
+    "price": 22000000,
+    "currency": "NGN",
+    "mileage": 18000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control",
+      "Keyless Entry"
+    ],
+    "image": "/images/toyota/toyota14.avif",
+    "available": true,
+    "slug": "toyota-toyotarav4-rav4"
+  },
+  {
+    "id": 7,
+    "name": "Toyota Yaris",
+    "brand": "Toyota",
+    "model": "Yaris",
+    "year": 2020,
+    "type": "Hatchback",
+    "price": 12000000,
+    "currency": "NGN",
+    "mileage": 30000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "image": "/images/toyota/toyota15.avif",
+    "available": true,
+    "slug": "toyota-toyotayaris-yaris"
+  },
+  {
+    "id": 8,
+    "name": "Toyota Tacoma",
+    "brand": "Toyota",
+    "model": "Tacoma",
+    "year": 2022,
+    "type": "Truck",
+    "price": 34000000,
+    "currency": "NGN",
+    "mileage": 11000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/toyota/toyota2.avif",
+    "available": true,
+    "slug": "toyota-toyotatacoma-tacoma"
+  },
+  {
+    "id": 9,
+    "name": "Toyota Avalon",
+    "brand": "Toyota",
+    "model": "Avalon",
+    "year": 2021,
+    "type": "Sedan",
+    "price": 21000000,
+    "currency": "NGN",
+    "mileage": 17000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/toyota/toyota3.avif",
+    "available": true,
+    "slug": "toyota-toyotaavalon-avalon"
+  },
+  {
+    "id": 10,
+    "name": "Toyota Prius",
+    "brand": "Toyota",
+    "model": "Prius",
+    "year": 2020,
+    "type": "Hatchback",
+    "price": 14000000,
+    "currency": "NGN",
+    "mileage": 26000,
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "image": "/images/toyota/toyota4.avif",
+    "available": true,
+    "slug": "toyota-toyotaprius-prius"
+  },
+  {
+    "id": 11,
+    "name": "Toyota Sienna",
+    "brand": "Toyota",
+    "model": "Sienna",
+    "year": 2022,
+    "type": "SUV",
+    "price": 37000000,
+    "currency": "NGN",
+    "mileage": 9000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control",
+      "Keyless Entry"
+    ],
+    "image": "/images/toyota/toyota5.avif",
+    "available": true,
+    "slug": "toyota-toyotasienna-sienna"
+  },
+  {
+    "id": 12,
+    "name": "Toyota Fortuner",
+    "brand": "Toyota",
+    "model": "Fortuner",
+    "year": 2021,
+    "type": "SUV",
+    "price": 33000000,
+    "currency": "NGN",
+    "mileage": 15000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/toyota/toyota6.avif",
+    "available": true,
+    "slug": "toyota-toyotafortuner-fortuner"
+  },
+  {
+    "id": 13,
+    "name": "Toyota 4Runner",
+    "brand": "Toyota",
+    "model": "4Runner",
+    "year": 2020,
+    "type": "SUV",
+    "price": 25000000,
+    "currency": "NGN",
+    "mileage": 22000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/toyota/toyota7.avif",
+    "available": true,
+    "slug": "toyota-toyota4runner-4runner"
+  },
+  {
+    "id": 14,
+    "name": "Toyota Venza",
+    "brand": "Toyota",
+    "model": "Venza",
+    "year": 2021,
+    "type": "SUV",
+    "price": 24000000,
+    "currency": "NGN",
+    "mileage": 19000,
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "image": "/images/toyota/toyota8.avif",
+    "available": true,
+    "slug": "toyota-toyotavenza-venza"
+  },
+  {
+    "id": 15,
+    "name": "Toyota Matrix",
+    "brand": "Toyota",
+    "model": "Matrix",
+    "year": 2020,
+    "type": "Hatchback",
+    "price": 11000000,
+    "currency": "NGN",
+    "mileage": 32000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "image": "/images/toyota/toyota9.avif",
+    "available": true,
+    "slug": "toyota-toyotamatrix-matrix"
+  }
+]

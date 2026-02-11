@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "name": "BMW X5",
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2022,
+    "type": "SUV",
+    "price": 35000000,
+    "currency": "NGN",
+    "mileage": 12000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/bmw/bmw1.avif",
+    "available": true,
+    "slug": "bmw-bmwx5-x5"
+  },
+  {
+    "id": 2,
+    "name": "BMW 3 Series",
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2021,
+    "type": "Sedan",
+    "price": 22000000,
+    "currency": "NGN",
+    "mileage": 18000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/bmw/bmw2.avif",
+    "available": true,
+    "slug": "bmw-bmw3series-3series"
+  },
+  {
+    "id": 3,
+    "name": "BMW 5 Series",
+    "brand": "BMW",
+    "model": "5 Series",
+    "year": 2020,
+    "type": "Sedan",
+    "price": 27000000,
+    "currency": "NGN",
+    "mileage": 25000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/bmw/bmw11.avif",
+    "available": true,
+    "slug": "bmw-bmw5series-5series"
+  },
+  {
+    "id": 4,
+    "name": "BMW X3",
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2022,
+    "type": "SUV",
+    "price": 32000000,
+    "currency": "NGN",
+    "mileage": 10000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/bmw/bmw12.avif",
+    "available": true,
+    "slug": "bmw-bmwx3-x3"
+  },
+  {
+    "id": 5,
+    "name": "BMW X6",
+    "brand": "BMW",
+    "model": "X6",
+    "year": 2023,
+    "type": "SUV",
+    "price": 42000000,
+    "currency": "NGN",
+    "mileage": 8000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "image": "/images/bmw/bmw13.avif",
+    "available": true,
+    "slug": "bmw-bmwx6-x6"
+  },
+  {
+    "id": 6,
+    "name": "BMW 7 Series",
+    "brand": "BMW",
+    "model": "7 Series",
+    "year": 2021,
+    "type": "Sedan",
+    "price": 52000000,
+    "currency": "NGN",
+    "mileage": 15000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control",
+      "Keyless Entry"
+    ],
+    "image": "/images/bmw/bmw14.avif",
+    "available": true,
+    "slug": "bmw-bmw7series-7series"
+  },
+  {
+    "id": 7,
+    "name": "BMW X1",
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2022,
+    "type": "SUV",
+    "price": 28000000,
+    "currency": "NGN",
+    "mileage": 12000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/bmw/bmw15.avif",
+    "available": true,
+    "slug": "bmw-bmwx1-x1"
+  },
+  {
+    "id": 8,
+    "name": "BMW X2",
+    "brand": "BMW",
+    "model": "X2",
+    "year": 2021,
+    "type": "SUV",
+    "price": 25000000,
+    "currency": "NGN",
+    "mileage": 18000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control",
+      "Keyless Entry"
+    ],
+    "image": "/images/bmw/bmw2.avif",
+    "available": true,
+    "slug": "bmw-bmwx2-x2"
+  },
+  {
+    "id": 9,
+    "name": "BMW 4 Series Coupe",
+    "brand": "BMW",
+    "model": "4 Series",
+    "year": 2022,
+    "type": "Coupe",
+    "price": 27000000,
+    "currency": "NGN",
+    "mileage": 11000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/bmw/bmw3.avif",
+    "available": true,
+    "slug": "bmw-bmw4seriescoupe-4series"
+  },
+  {
+    "id": 10,
+    "name": "BMW 2 Series",
+    "brand": "BMW",
+    "model": "2 Series",
+    "year": 2023,
+    "type": "Coupe",
+    "price": 23000000,
+    "currency": "NGN",
+    "mileage": 9000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/bmw/bmw4.avif",
+    "available": true,
+    "slug": "bmw-bmw2series-2series"
+  },
+  {
+    "id": 11,
+    "name": "BMW 1 Series",
+    "brand": "BMW",
+    "model": "1 Series",
+    "year": 2020,
+    "type": "Hatchback",
+    "price": 19000000,
+    "currency": "NGN",
+    "mileage": 22000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "image": "/images/bmw/bmw5.avif",
+    "available": true,
+    "slug": "bmw-bmw1series-1series"
+  },
+  {
+    "id": 12,
+    "name": "BMW 6 Series Gran Coupe",
+    "brand": "BMW",
+    "model": "6 Series",
+    "year": 2022,
+    "type": "Coupe",
+    "price": 43000000,
+    "currency": "NGN",
+    "mileage": 9000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control",
+      "Keyless Entry"
+    ],
+    "image": "/images/bmw/bmw6.avif",
+    "available": true,
+    "slug": "bmw-bmw6seriesgrancoupe-6series"
+  },
+  {
+    "id": 13,
+    "name": "BMW 8 Series",
+    "brand": "BMW",
+    "model": "8 Series",
+    "year": 2021,
+    "type": "Coupe",
+    "price": 44000000,
+    "currency": "NGN",
+    "mileage": 12000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/bmw/bmw7.avif",
+    "available": true,
+    "slug": "bmw-bmw8series-8series"
+  },
+  {
+    "id": 14,
+    "name": "BMW Z4",
+    "brand": "BMW",
+    "model": "Z4",
+    "year": 2020,
+    "type": "Coupe",
+    "price": 45000000,
+    "currency": "NGN",
+    "mileage": 15000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/bmw/bmw8.avif",
+    "available": true,
+    "slug": "bmw-bmwz4-z4"
+  },
+  {
+    "id": 15,
+    "name": "BMW M3",
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2021,
+    "type": "Sedan",
+    "price": 32000000,
+    "currency": "NGN",
+    "mileage": 15000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control",
+      "Keyless Entry"
+    ],
+    "image": "/images/bmw/bmw9.avif",
+    "available": true,
+    "slug": "bmw-bmwm3-m3"
+  }
+]
