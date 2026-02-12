@@ -1,0 +1,316 @@
+[
+  {
+    "id": 1,
+    "name": "Honda CR-V",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2023,
+    "type": "SUV",
+    "price": 28000000,
+    "currency": "NGN",
+    "mileage": 8000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels",
+      "Sunroof"
+    ],
+    "image": "/images/honda/honda1.avif",
+    "available": true,
+    "slug": "honda-hondacr-v-cr-v"
+  },
+  {
+    "id": 2,
+    "name": "Honda Accord",
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2020,
+    "type": "Sedan",
+    "price": 17000000,
+    "currency": "NGN",
+    "mileage": 25000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/honda/honda10.avif",
+    "available": true,
+    "slug": "honda-hondaaccord-accord"
+  },
+  {
+    "id": 3,
+    "name": "Honda Civic",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2021,
+    "type": "Sedan",
+    "price": 19000000,
+    "currency": "NGN",
+    "mileage": 18000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/honda/honda11.avif",
+    "available": true,
+    "slug": "honda-hondacivic-civic"
+  },
+  {
+    "id": 4,
+    "name": "Honda Pilot",
+    "brand": "Honda",
+    "model": "Pilot",
+    "year": 2022,
+    "type": "SUV",
+    "price": 32000000,
+    "currency": "NGN",
+    "mileage": 12000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/honda/honda12.avif",
+    "available": true,
+    "slug": "honda-hondapilot-pilot"
+  },
+  {
+    "id": 5,
+    "name": "Honda HR-V",
+    "brand": "Honda",
+    "model": "HR-V",
+    "year": 2021,
+    "type": "SUV",
+    "price": 22000000,
+    "currency": "NGN",
+    "mileage": 18000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control",
+      "Keyless Entry"
+    ],
+    "image": "/images/honda/honda13.avif",
+    "available": true,
+    "slug": "honda-hondahr-v-hr-v"
+  },
+  {
+    "id": 6,
+    "name": "Honda Odyssey",
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2020,
+    "type": "SUV",
+    "price": 15000000,
+    "currency": "NGN",
+    "mileage": 30000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "image": "/images/honda/honda14.avif",
+    "available": true,
+    "slug": "honda-hondaodyssey-odyssey"
+  },
+  {
+    "id": 7,
+    "name": "Honda Ridgeline",
+    "brand": "Honda",
+    "model": "Ridgeline",
+    "year": 2022,
+    "type": "Truck",
+    "price": 34000000,
+    "currency": "NGN",
+    "mileage": 11000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/honda/honda15.avif",
+    "available": true,
+    "slug": "honda-hondaridgeline-ridgeline"
+  },
+  {
+    "id": 8,
+    "name": "Honda Element",
+    "brand": "Honda",
+    "model": "Element",
+    "year": 2021,
+    "type": "SUV",
+    "price": 21000000,
+    "currency": "NGN",
+    "mileage": 17000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/honda/honda2.avif",
+    "available": true,
+    "slug": "honda-hondaelement-element"
+  },
+  {
+    "id": 9,
+    "name": "Honda Civic Hatchback",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2023,
+    "type": "Hatchback",
+    "price": 19000000,
+    "currency": "NGN",
+    "mileage": 9000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/honda/honda3.avif",
+    "available": true,
+    "slug": "honda-hondacivichatchback-civic"
+  },
+  {
+    "id": 10,
+    "name": "Honda Fit",
+    "brand": "Honda",
+    "model": "Fit",
+    "year": 2020,
+    "type": "Hatchback",
+    "price": 14000000,
+    "currency": "NGN",
+    "mileage": 26000,
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "image": "/images/honda/honda4.avif",
+    "available": true,
+    "slug": "honda-hondafit-fit"
+  },
+  {
+    "id": 11,
+    "name": "Honda Insight",
+    "brand": "Honda",
+    "model": "Insight",
+    "year": 2022,
+    "type": "Sedan",
+    "price": 17000000,
+    "currency": "NGN",
+    "mileage": 9000,
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control",
+      "Keyless Entry"
+    ],
+    "image": "/images/honda/honda5.avif",
+    "available": true,
+    "slug": "honda-hondainsight-insight"
+  },
+  {
+    "id": 12,
+    "name": "Honda Passport",
+    "brand": "Honda",
+    "model": "Passport",
+    "year": 2021,
+    "type": "SUV",
+    "price": 33000000,
+    "currency": "NGN",
+    "mileage": 15000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/honda/honda6.avif",
+    "available": true,
+    "slug": "honda-hondapassport-passport"
+  },
+  {
+    "id": 13,
+    "name": "Honda Clarity",
+    "brand": "Honda",
+    "model": "Clarity",
+    "year": 2020,
+    "type": "Sedan",
+    "price": 25000000,
+    "currency": "NGN",
+    "mileage": 22000,
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/honda/honda7.avif",
+    "available": true,
+    "slug": "honda-hondaclarity-clarity"
+  },
+  {
+    "id": 14,
+    "name": "Honda CR-Z",
+    "brand": "Honda",
+    "model": "CR-Z",
+    "year": 2021,
+    "type": "Hatchback",
+    "price": 16000000,
+    "currency": "NGN",
+    "mileage": 19000,
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "image": "/images/honda/honda8.avif",
+    "available": true,
+    "slug": "honda-hondacr-z-cr-z"
+  },
+  {
+    "id": 15,
+    "name": "Honda Prelude",
+    "brand": "Honda",
+    "model": "Prelude",
+    "year": 2020,
+    "type": "Coupe",
+    "price": 11000000,
+    "currency": "NGN",
+    "mileage": 32000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "image": "/images/honda/honda9.avif",
+    "available": true,
+    "slug": "honda-hondaprelude-prelude"
+  }
+]

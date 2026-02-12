@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
+    },
+    "typeRoots": ["node_modules/@types", "types"]
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    "build",
+    ".next",
+    ".cache",
+    "out",
+    "coverage",
+    "tmp",
+    "temp",
+    "Library",
+    "Library/Caches",
+    "**/types",
+    "**/@types"
+  ],
+  "include": [
+    "./**/*",
+    "node_modules/@types"
+  ]
+}

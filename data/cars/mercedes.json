@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "name": "Mercedes-Benz GLE",
+    "brand": "Mercedes",
+    "model": "GLE",
+    "year": 2023,
+    "type": "SUV",
+    "price": 48000000,
+    "currency": "NGN",
+    "mileage": 7000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/mercedes/Mercedes1.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzgle-gle"
+  },
+  {
+    "id": 2,
+    "name": "Mercedes-Benz C-Class",
+    "brand": "Mercedes",
+    "model": "C-Class",
+    "year": 2020,
+    "type": "Sedan",
+    "price": 25000000,
+    "currency": "NGN",
+    "mileage": 22000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/mercedes/Mercedes2.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzc-class-c-class"
+  },
+  {
+    "id": 3,
+    "name": "Mercedes-Benz GLC",
+    "brand": "Mercedes",
+    "model": "GLC",
+    "year": 2022,
+    "type": "SUV",
+    "price": 42000000,
+    "currency": "NGN",
+    "mileage": 9000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/mercedes/Mercedes8.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzglc-glc"
+  },
+  {
+    "id": 4,
+    "name": "Mercedes-Benz E-Class",
+    "brand": "Mercedes",
+    "model": "E-Class",
+    "year": 2021,
+    "type": "Sedan",
+    "price": 32000000,
+    "currency": "NGN",
+    "mileage": 15000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control",
+      "Keyless Entry"
+    ],
+    "image": "/images/mercedes/Mercedes9.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benze-class-e-class"
+  },
+  {
+    "id": 5,
+    "name": "Mercedes-Benz GLA",
+    "brand": "Mercedes",
+    "model": "GLA",
+    "year": 2022,
+    "type": "SUV",
+    "price": 38000000,
+    "currency": "NGN",
+    "mileage": 12000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/mercedes/mercedes10.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzgla-gla"
+  },
+  {
+    "id": 6,
+    "name": "Mercedes-Benz CLA",
+    "brand": "Mercedes",
+    "model": "CLA",
+    "year": 2021,
+    "type": "Coupe",
+    "price": 27000000,
+    "currency": "NGN",
+    "mileage": 11000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/mercedes/mercedes11.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzcla-cla"
+  },
+  {
+    "id": 7,
+    "name": "Mercedes-Benz S-Class",
+    "brand": "Mercedes",
+    "model": "S-Class",
+    "year": 2022,
+    "type": "Sedan",
+    "price": 65000000,
+    "currency": "NGN",
+    "mileage": 8000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "image": "/images/mercedes/mercedes12.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzs-class-s-class"
+  },
+  {
+    "id": 8,
+    "name": "Mercedes-Benz G-Class",
+    "brand": "Mercedes",
+    "model": "G-Class",
+    "year": 2023,
+    "type": "SUV",
+    "price": 90000000,
+    "currency": "NGN",
+    "mileage": 5000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "features": [
+      "Leather Seats",
+      "Sunroof",
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/mercedes/mercedes14.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzg-class-g-class"
+  },
+  {
+    "id": 9,
+    "name": "Mercedes-Benz GLB",
+    "brand": "Mercedes",
+    "model": "GLB",
+    "year": 2022,
+    "type": "SUV",
+    "price": 41000000,
+    "currency": "NGN",
+    "mileage": 10000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/mercedes/mercedes15.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzglb-glb"
+  },
+  {
+    "id": 10,
+    "name": "Mercedes-Benz A-Class",
+    "brand": "Mercedes",
+    "model": "A-Class",
+    "year": 2021,
+    "type": "Hatchback",
+    "price": 21000000,
+    "currency": "NGN",
+    "mileage": 17000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/mercedes/mercedes3.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benza-class-a-class"
+  },
+  {
+    "id": 11,
+    "name": "Mercedes-Benz B-Class",
+    "brand": "Mercedes",
+    "model": "B-Class",
+    "year": 2020,
+    "type": "Hatchback",
+    "price": 19000000,
+    "currency": "NGN",
+    "mileage": 22000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera"
+    ],
+    "image": "/images/mercedes/mercedes4.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzb-class-b-class"
+  },
+  {
+    "id": 12,
+    "name": "Mercedes-Benz EQA",
+    "brand": "Mercedes",
+    "model": "EQA",
+    "year": 2022,
+    "type": "SUV",
+    "price": 43000000,
+    "currency": "NGN",
+    "mileage": 9000,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control",
+      "Keyless Entry"
+    ],
+    "image": "/images/mercedes/mercedes5.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzeqa-eqa"
+  },
+  {
+    "id": 13,
+    "name": "Mercedes-Benz EQB",
+    "brand": "Mercedes",
+    "model": "EQB",
+    "year": 2021,
+    "type": "SUV",
+    "price": 44000000,
+    "currency": "NGN",
+    "mileage": 12000,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/mercedes/mercedes6.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzeqb-eqb"
+  },
+  {
+    "id": 14,
+    "name": "Mercedes-Benz EQC",
+    "brand": "Mercedes",
+    "model": "EQC",
+    "year": 2020,
+    "type": "SUV",
+    "price": 45000000,
+    "currency": "NGN",
+    "mileage": 15000,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Cruise Control"
+    ],
+    "image": "/images/mercedes/mercedes7.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzeqc-eqc"
+  },
+  {
+    "id": 15,
+    "name": "Mercedes-Benz Sprinter",
+    "brand": "Mercedes",
+    "model": "Sprinter",
+    "year": 2022,
+    "type": "Truck",
+    "price": 35000000,
+    "currency": "NGN",
+    "mileage": 11000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "features": [
+      "Bluetooth",
+      "Backup Camera",
+      "Alloy Wheels"
+    ],
+    "image": "/images/mercedes/mercerdes13.avif",
+    "available": true,
+    "slug": "mercedes-mercedes-benzsprinter-sprinter"
+  }
+]
